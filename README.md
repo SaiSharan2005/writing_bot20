@@ -1,5 +1,5 @@
 # writing_bot
-this program is used to write the code behalf you by using keyboard by a bot 
+this program is used to write the code behalf of you by using keyboard by a bot 
 
 First you have to activate the env file .Open command prompt or terminal in your windows or mac or linux.
 
