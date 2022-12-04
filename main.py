@@ -10,7 +10,7 @@ while(True):
 		break
 	l1.append(str)
 		
-time.sleep(5)
+time.sleep(300)
 for i in l1:
 	pyautogui.typewrite(i)
 	pyautogui.press("enter")
